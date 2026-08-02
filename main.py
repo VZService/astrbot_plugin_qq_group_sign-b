@@ -16,7 +16,7 @@ from astrbot.api import AstrBotConfig
     "qq_group_sign",
     "EraAsh",
     "QQ群打卡插件，支持自动定时打卡、白名单/黑名单模式、管理员通知等功能",
-    "2.3.0",
+    "2.3.1",
     "https://github.com/EraAsh/astrbot_plugin_qq_group_sign",
 )
 class QQGroupSignPlugin(Star):
