@@ -1,5 +1,7 @@
 # QQ群打卡插件
 
+> ⚠️ 本仓库为 VZService 维护分支，基于 EraAsh 上游（`v2.3.0`）增加了黑名单模式（感谢 EraAsh 的原作）。
+
 一个功能强大的QQ群打卡插件，支持自动定时打卡、白名单/黑名单模式、管理员通知等功能。适配 AstrBot v4.25+。
 
 > 最新版本：`v2.3.1`
@@ -103,10 +105,6 @@ GNU Affero General Public License v3.0
 ## 作者
 
 **EraAsh**
-
-## 维护说明
-
-本仓库为 VZService 维护分支，基于 EraAsh 上游（`v2.3.0`）增加了黑名单模式（感谢 EraAsh 的原作）。
 
 ---
 
